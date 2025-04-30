@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+pandas
+spacy
+biopython
+bertopic
+sentence-transformers
+scikit-learn
+umap-learn
+plotly
+requests
